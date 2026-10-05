@@ -1,4 +1,4 @@
-用于下载抖音视频的 Codex Skill。
+一个自己用的下载抖音视频的 Codex Skill
 
 ## 环境要求
 
