@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.m4a
+*.crdownload
+/downloads/
+/artifacts/
